@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(fontawesome/css/all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap");
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -126,7 +126,7 @@ html {
 body, input, select, textarea {
   color: #1b1f22;
   font-family: "Source Sans Pro", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 1rem;
   line-height: 1.65;
 }
@@ -341,7 +341,7 @@ label {
   color: #000000;
   display: block;
   font-size: 0.8rem;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 0.2rem;
   line-height: 1.5;
   margin: 0 0 1rem 0;
@@ -446,7 +446,7 @@ input[type=radio] + label {
   cursor: pointer;
   display: inline-block;
   font-size: 0.8rem;
-  font-weight: 300;
+  font-weight: 400;
   margin: 0 0 0.5rem 0;
   padding-left: 2.65rem;
   padding-right: 0.75rem;
@@ -883,7 +883,7 @@ button,
   cursor: pointer;
   display: inline-block;
   font-size: 0.8rem;
-  font-weight: 300;
+  font-weight: 400;
   height: 2.75rem;
   letter-spacing: 0.2rem;
   line-height: 2.75rem;
